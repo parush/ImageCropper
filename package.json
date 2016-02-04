@@ -1,0 +1,25 @@
+{
+  "name": "imagecropper",
+  "version": "1.0.0",
+  "description": "It is a asp.net implementation of the Cropper Plugin.",
+  "main": "CropperTest.sln",
+  "scripts": {
+    "test": "npm install imagecropper"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parush/ImageCropper.git"
+  },
+  "keywords": [
+    "asp.net",
+    "imagecropper",
+    "cropper",
+    "plugin"
+  ],
+  "author": "Paras Sitoula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parush/ImageCropper/issues"
+  },
+  "homepage": "https://github.com/parush/ImageCropper#readme"
+}
