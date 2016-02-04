@@ -1,7 +1,7 @@
 # ImageCropper
-it is asp.net implementation of the Cropper plugin
+> It is asp.net implementation of the Cropper Plugin from <a href="http://fengyuanchen.github.io/cropper/">http://fengyuanchen.github.io/cropper/</a>
 <hr/>
-  <h3>References</h3>
+  #References
     <ul class="list-group">
         <li class="list-group-item">
             <strong>Cropper Plugin : </strong> <a href="http://fengyuanchen.github.io/cropper/">http://fengyuanchen.github.io/cropper/</a>
