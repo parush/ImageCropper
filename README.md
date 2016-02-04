@@ -15,6 +15,6 @@
         </li>
     </ul>
 	
-	#Screenshots
+
 	![Screenshot 1](https://raw.githubusercontent.com/parush/ImageCropper/master/CropperTest/Content/sshot1.PNG)
 	![Screenshot 2](https://raw.githubusercontent.com/parush/ImageCropper/master/CropperTest/Content/sshot1.PNG)
