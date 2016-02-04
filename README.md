@@ -1,6 +1,9 @@
 # ImageCropper
 > It is asp.net implementation of the Cropper Plugin from <a href="http://fengyuanchen.github.io/cropper/">http://fengyuanchen.github.io/cropper/</a>
 <hr/>
+# Node Installation
+  <pre> npm install imagecropper </pre>
+<hr/>
   #References
     <ul class="list-group">
         <li class="list-group-item">
