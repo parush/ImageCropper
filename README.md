@@ -15,9 +15,8 @@
         </li>
     </ul>
 	
-	#Screenshots.
-	<p align="center">
-  <img src="https://raw.githubusercontent.com/parush/ImageCropper/master/CropperTest/Content/sshot1.PNG" width="350"/>
-  <img src="https://raw.githubusercontent.com/parush/ImageCropper/master/CropperTest/Content/sshot1.PNG" width="350"/>
-</p>
+#Screenshots
+  <img src="https://raw.githubusercontent.com/parush/ImageCropper/master/CropperTest/Content/sshot1.PNG" width="550"/>
+  <img src="https://raw.githubusercontent.com/parush/ImageCropper/master/CropperTest/Content/sshot2.PNG" width="550"/>
+
 	
